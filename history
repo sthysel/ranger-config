@@ -9,9 +9,13 @@ open_with anger
 search wor
 find 
 open_with 1
-rename
 rename secrets
 open_with j
 open_with hj
 open_with epub
 open_with 
+search ./config
+rename
+reame grab.png
+rename 
+rename grab.png
