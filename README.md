@@ -9,7 +9,7 @@ $ make install
 ```
 
 
-## stow install
+# stow 
 
 ```bash
 $ stow -t ${HOME} dot
