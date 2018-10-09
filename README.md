@@ -4,15 +4,20 @@
 
 # install
 
+## make helper
 ```bash
 $ make install
 ```
 
-
-# stow 
+## stow 
 
 ```bash
 $ stow -t ${HOME} dot
 ```
 
+# trash-cli
+
+```bash
+# pacman -S trash-cli
+```
 
