@@ -34,6 +34,11 @@ my_edit
 search ranger
 empty 
 ?
-
 search trash
 searq
+
+emptytrash 
+mkdir build-an-ai
+rename handbook.pdf
+rename walkthrough.mp4
+rename Top-5-AI-Algorithms.pdf

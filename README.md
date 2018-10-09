@@ -15,9 +15,9 @@ $ make install
 $ stow -t ${HOME} dot
 ```
 
-# trash-cli
+# tools
 
 ```bash
-# pacman -S trash-cli
+# pacman -S trash-cli zathura-pdf-mupdf
 ```
 
